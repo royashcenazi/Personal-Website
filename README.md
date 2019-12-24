@@ -3,9 +3,10 @@
 
 **Roy Ashcenazi, Software Engineer at Akamai Technologies.**
 
+I am using this website to share my Github projects and blogs I have written.
+
 #### Personal Projects
 
-I am using this website to share my Github projects and blogs I have written.
 
 * The recent repository I have worked on that includes an implementation of the association rules learning algorithm (apriory) for production insights can be found
 [here](https://github.com/royashcenazi/spark_and_stuff) 
