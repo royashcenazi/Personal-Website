@@ -15,7 +15,7 @@ I am using this website to share my Github projects and blogs I have written.
 * An implementation of the [Enigma machine in python](https://github.com/royashcenazi/The-Enigma-Machine)
 
 
-* Example for the [decorator pattern in C#](https://github.com/royashcenazi/Hummos-Decorator-demo)
+* Example for the [Decorator design-pattern in C#](https://github.com/royashcenazi/Hummos-Decorator-demo)
 
 * Final project from college - [Share & Earn](https://github.com/royashcenazi/Hummos-Decorator-demo)
 
