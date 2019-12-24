@@ -27,8 +27,10 @@ I am using this website to share my Github projects and blogs I have written.
 * An article regarding relations between production alerts using machine learning can be found [here](https://medium.com/analytics-vidhya/getting-insights-from-production-alerts-using-basic-machine-learning-44dd805d899)
 
 
-
+#### CV
+ * press [here] (Roy Ashcenazi  CV.pdf)
 
 
 #### Extras
 * My CS Stack Exchange [profile](https://cs.stackexchange.com/users/106564/royashcenazi)
+
