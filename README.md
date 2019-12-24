@@ -16,7 +16,7 @@ I am using this website to share my Github projects and blogs I have written.
 
 * Example for the [decorator pattern in C#](https://github.com/royashcenazi/Hummos-Decorator-demo)
 
-* The final project from my degree - [Share & Earn](https://github.com/royashcenazi/Hummos-Decorator-demo)
+* Final project from college - [Share & Earn](https://github.com/royashcenazi/Hummos-Decorator-demo)
 
 * And my main [GitHub page](https://github.com/royashcenazi)
 
