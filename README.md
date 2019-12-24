@@ -28,7 +28,7 @@ I am using this website to share my Github projects and blogs I have written.
 
 
 #### CV
- * press [here] (Roy Ashcenazi  CV.pdf)
+ * press [here] (/Roy Ashcenazi  CV.pdf)
 
 
 #### Extras
