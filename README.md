@@ -23,7 +23,7 @@ I am using this website to share my Github projects and blogs I have written.
 
 #### Written Word
 
-* An article regarding relations between production alerts using machine learning can be found [here](https://medium.com/p/44dd805d899/edit)
+* An article regarding relations between production alerts using machine learning can be found [here](https://medium.com/analytics-vidhya/getting-insights-from-production-alerts-using-basic-machine-learning-44dd805d899)
 
 
 
