@@ -26,6 +26,8 @@ I am using this website to share my Github projects and blogs I have written.
 
 * An article regarding relations between production alerts using machine learning can be found [here](https://medium.com/analytics-vidhya/getting-insights-from-production-alerts-using-basic-machine-learning-44dd805d899)
 
+* An article covering statistics generation in Spark applications using AccumulatorV2 [link](https://medium.com/@royashcenazi/producing-custom-statistics-in-spark-applications-using-accumulatorv2-14b11019e17b)
+
 
 #### CV
  * press [here](CV.pdf)
