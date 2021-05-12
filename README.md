@@ -1,7 +1,7 @@
 # Welcome to my personal page!
 
 
-**Roy Ashcenazi, Software Engineer at Akamai Technologies.**
+**Roy Ashcenazi, Software Engineer at FeelBetter LTD.**
 
 I am using this website to share my Github projects and blogs I have written.
 
@@ -23,6 +23,8 @@ I am using this website to share my Github projects and blogs I have written.
 
 
 #### Written Word
+
+* An article regarding an evolving Akka-streams use case scenario can be found [here](https://royashcenazi.medium.com/using-akka-streams-for-creating-a-pipeline-from-a-paged-api-evolving-scenario-a28a0593df91)
 
 * An article regarding relations between production alerts using machine learning can be found [here](https://medium.com/analytics-vidhya/getting-insights-from-production-alerts-using-basic-machine-learning-44dd805d899)
 
